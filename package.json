@@ -1,0 +1,17 @@
+{
+  "name": "depruuu-core-api",
+  "version": "1.0.0",
+  "description": "Backend API + Discord bot for Depruuu Core fan community",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.24.2",
+    "express": "^5.1.0"
+  }
+}
